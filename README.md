@@ -28,8 +28,4 @@ An argument about unequal error burdens, institutional power and the ethical imp
 
 This repository is an index to my published essays, with their full arguments and references available on my website. It is not a software implementation or a copy of the marked module submission. The essays present ethical analysis and arguments; they should not be read as experiments establishing causal learning effects.
 
-## Acknowledgement
-
-Thank you to [Paula Satne](https://www.linkedin.com/in/paula-satne-3ba48327/) and the wider teaching team.
-
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
